@@ -1,0 +1,309 @@
+.BaseLayout{
+	background-color: #091B24;
+}
+
+.RouteHeader-title{
+	color: #E8E8E8 !important;
+}
+
+.RouteHeader-container{
+	background-color: #091B24;
+	
+}
+
+.RouteHeader-container:hover{
+	background-color: #416F86;
+	color: #E8E8E8 !important;
+}
+
+.Catalog-container{
+	background-color: #0F2B38 !important;
+	overflow-x: hidden !important;
+}
+
+.SearchBar-input{
+	color: #E8E8E8 !important;
+}
+
+.SearchBar-input::placeholder{
+	color: #B8B8B8 !important;
+}
+
+.RecentLaunch{
+	background-color: #4E7B92;
+	border-radius: 5px;
+}
+
+.RecentLaunch .RecentLaunch-teacher{
+	color: #e8e8e8;
+}
+
+.RecentLaunch h4{
+	color: #e8e8e8;
+}
+
+.BlogPost{
+	background-color: #0F2B38;
+	border-radius: 5px;
+}
+
+.BlogPost .BlogPost-detail-title{
+color: #e8e8e8;
+}
+
+.Star{
+	background-color: #0F2B38 !important;
+}
+
+.SearchBar-input{
+	background-color: #0F2B38 !important;
+}
+
+.NextClass-detail{
+	background-color: #0F2B38;
+}
+
+.NextClass-detail .NextClass-detail-class{
+	color: #e8e8e8;
+	font-weight: 500 !important;
+}
+
+.NextClass-detail-course-title{
+	color: #DBDBDB !important;
+}
+
+.LearningPathCourse-text--regular{
+	color: #DBDBDB !important;
+}
+
+.Recommendations{
+	background-color: #4E7B92;
+	color: #e8e8e8 !important;
+	border-radius: 5px;
+}
+
+.NextClass{
+	background-color: #0F2B38 !important;
+	border-radius: 5px;
+}
+
+.CourseRecommendation{
+	background-color: #0F2B38 !important;
+}
+
+.CourseRecommendation-title{
+	color: #e8e8e8 !important;
+}
+
+
+.CourseRecommendation-teacher{
+	color: #DBDBDB !important;
+}
+
+.LearningPathCourse:hover{
+	background-color: #17445A !important;
+}
+
+.Sckeleton-content-Mock-Course{
+background-color: #0F2B38;
+}
+
+.Sckeleton-content{
+	background-color: #0F2B38;
+}
+
+.mock-course{
+background-color: #0F2B38 !important;
+	border-radius: 5px;
+}
+
+.Sckeleton{
+background-color: #0F2B38 !important;
+	border-radius: 5px;
+}
+
+.VideoMaterialLayout-below{
+	background-color: #091B24;
+}
+
+.MaterialTabs-content{
+	background-color: #091B24 !important;
+}
+
+.TabSystem-panels{
+	background-color: #091B24 !important;
+}
+
+.InfinityScrollLayout{
+	background-color: #091B24 !important;
+}
+
+.Description{
+	background-color: #0F2B38 !important;
+}
+
+.Description-title{
+	color: #E8E8E8 !important
+}
+
+.Form-editor{
+	background-color: #0F2B38 !important;
+}
+
+.TabSystem-top{
+	background-color: #0F2B38 !important;
+}
+
+.Tab-is-test-b{
+background-color: #0F2B38 !important;
+	color: #e8e8e8 !important;
+}
+
+.VideoMaterialLayout-course{
+	background-color: #0F2B38 !important;
+}
+
+.VideoMaterialLayout-platziDay{
+	background-color: #0F2B38 !important;
+}
+
+.SubCards{
+background-color: #0F2B38 !important;
+}
+
+.Card{
+background-color: #0F2B38 !important;
+}
+
+.Card-top-name{
+color: #DBDBDB !important;
+}
+
+.Card-content{
+color: #e8e8e8 !important;
+}
+
+.VideoMaterialLayout-background{
+	background-color: #091B24 !important;
+}
+
+.Live{
+	background-color: #091B24 !important;
+}
+
+.Description-teacherInfo{
+	color: #e8e8e8;
+}
+
+.PulseEditor-field{
+	background-color: #091B24 !important;
+	color: #dbdbdb;
+}
+
+.Discussion{
+ background-color: #091B24 !important;
+}
+
+.MainDiscussion-body{
+	background-color: #091B24 !important;
+	color: #dbdbdb;
+}
+
+.Star-number{
+color: #dbdbdb;
+}
+
+#timeline-v2{
+	background-color: #091B24 !important;
+}
+
+.CourseDetail{
+	background-color: #0F2B38 !important;
+	border-radius: 5px !important;
+	color: #e8e8e8;
+}
+
+.CourseProject{
+	background-color: #0F394A !important;
+}
+
+.CourseProject-title{
+	color: #e8e8e8 !important;
+}
+
+.CourseProject-subtitle{
+	color: #dbdbdb !important;
+}
+
+.Tabs{
+	background-color: #0F2B38 !important;
+	color: #dbdbdb !important;
+	border-radius: 5px 5px 0 0;
+}
+
+.SingleTab{
+	color: #dbdbdb !important;
+	
+}
+
+.Material{
+	background-color: #0F2B38 !important;
+	
+}
+
+.Material-title{
+color:#e8e8e8
+}
+
+.CourseProgress-label{
+color:#e8e8e8
+}
+
+.TabsContent{
+background-color: #091B24 !important;
+}
+
+.MaterialItem{
+ background-color: #0F394A !important;
+	color: #dbdbdb;
+}
+
+.MaterialItem-copy-title{
+	color:#e8e8e8 !important;
+}
+
+.FileSystem-title{
+color:#e8e8e8 !important;
+}
+
+.details{
+	color:#e8e8e8 !important;
+}
+
+#discussion-detail{
+		background-color: #091B24 !important;
+}
+
+.MainContribution-breadcrumb{
+	background-color: #091B24 !important;
+}
+
+.DiscusionDetail-comments{
+	background-color: #091B24 !important;
+}
+
+.MainContribution-text{
+	color: #e8e8e8;
+}
+
+.CommentContent-text{
+color: #e8e8e8 !important;
+}
+
+.MainContribution-title span{
+color: #e8e8e8 !important;
+}
+
+.Description-agenda{
+	color: #dbdbdb !important;
+}
